@@ -1,7 +1,7 @@
 # 💫 About Me:
 Hey! I'm a passionate developer diving into the world of AI and facial recognition. Currently, I’m building a Python-based facial recognition model that pushes the boundaries of tech and security. ⚙️✨
 
-When I’m not coding, you’ll find me at hackathons—I recently won 1st place in the "Ask Me About Linux" section! 🏆 I love competing, solving problems, and geeking out over Linux.
+When I’m not coding, you’ll find me at hackathons—I recently won 1st place in the "Ask Me About Linux" section! 🏆 I love competing, solving problems and geeking out over Linux.
 
 A couple of fun facts:
 
